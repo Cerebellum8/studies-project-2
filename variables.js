@@ -29,4 +29,5 @@ myVar = "cats"; // prints => "cats"
 // three ways to declare variables 
 // each has different scoped rules when hoisting, scoping and re-assigning
 
-// 5. Hoisting // 
+// 5. Hoisting //
+// n 

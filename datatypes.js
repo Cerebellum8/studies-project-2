@@ -13,3 +13,32 @@
  * 6. NaN
  *  - atomic, immutable, copy by value
  */
+//**
+// 
+// NUMBERS
+// numeric data easy/simple ex: var x = 1, 23, -2 etc 
+// 
+// STRING
+// reprsented by :" ", any string of charaters  if you see quotes around them its a string 
+   var string = "Shevonda";
+// BOOLEAN
+// has only two values ,used when comparing something is true or false
+// UNDEFINED
+// 
+// NULL
+// 
+// NaN
+// 
+// INFINITY INFINITY
+// 
+// 
+// ARRAY
+// 
+// OBJECT
+// 
+// 
+// PRIMITIVE VS COMPLEX
+// 
+// 
+// by reference and by copy menainf 
+//  */

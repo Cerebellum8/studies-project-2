@@ -3,4 +3,21 @@
  * 
  * 0: (introduction)
  * 
- */
+ *///**
+// FOR LOOP
+// 
+// FOR-IN-LOOP
+// 
+// 
+// WHILE LOOP
+// 
+// 
+// LOOP FORWARD(COUNTING UP)
+// 
+// 
+// 
+// LOOP BACKWARD (COUNTING DOWN TO 0)
+// LOOP OVER AN ARRAY FORWARD
+// LOOP OVER AN ARRAY BACKWARDS
+//LOOP OVER AN OBJECT
+//  */
